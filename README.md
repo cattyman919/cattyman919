@@ -1,13 +1,14 @@
-# Hello, I'm [Your Name Here]! 👋
+# Hello, I'm Seno! 👋
 
 I'm an undergraduate Computer Engineering student at Universitas Indonesia with a passion for technology and its impact on society. My academic journey has equipped me with a broad understanding of programming, computer architecture, computer networks, and IoT, fueling my curiosity and drive to explore these areas further.
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Typescript, NextJS, HTML, CSS
-- **Backend:** NestJS, Node.js
-- **Programming Languages:** C++, JavaScript, TypeScript
-- **IoT:** ESP32, Arduino UNO
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,bootstrap,dart,flutter,git,github,gradle,godot,html,css,js,md,netlify,nextjs,nodejs,nestjs,postgres,postman,py,react,supabase,tailwind,ts,vercel,vscode,&perline=10" height="110"/>
+</a>
+</p>
 
 ## 🔍 Current Interests
 
@@ -21,8 +22,8 @@ I'm an undergraduate Computer Engineering student at Universitas Indonesia with 
 - **Gym:** Hitting the gym is not just a pastime; it's a commitment to building strength and resilience.
 
 ## 📫 Let's Connect!
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/seno-pamungkas-rahman-714341192/)
-- **Email:** [your.email@example.com](mailto:senopamungkasraehman@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/senohebat/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seno-pamungkas-rahman-714341192/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senopamungkasraehman@gmail.com)
 
 Feel free to reach out, whether it's for a project, advice, or just to say hi. I'm always open to connecting with like-minded individuals and exploring new opportunities in the tech world!
