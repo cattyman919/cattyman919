@@ -1,6 +1,7 @@
-# Hello, I'm Seno! 👋
-
+# Hello, I'm Seno! 👋 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abdfikih.repoName)
 I'm an undergraduate Computer Engineering student at Universitas Indonesia with a passion for technology and its impact on society. My academic journey has equipped me with a broad understanding of programming, computer architecture, computer networks, and IoT, fueling my curiosity and drive to explore these areas further.
+
+⚡: Click Here -> [My Website](https://seno-dev.com)
 
 ## 🛠 Tech Stack
 
@@ -12,9 +13,30 @@ I'm an undergraduate Computer Engineering student at Universitas Indonesia with 
 
 ## 🔍 Current Interests
 
-- **Web Development:** Specializing as a Fullstack Developer, I've had the privilege of contributing to various projects, honing my skills in both frontend and backend development. My journey has been marked by hands-on experience and collaborative success, making web development not just my specialty but my passion.
-- **IoT Projects:** The world of IoT fascinates me, especially working with ESP32 and Arduino UNO. Integrating IoT projects with web interfaces has been a rewarding challenge, showcasing the practical applications of my technical skills.
+- **Web Development:** Specializing in full-stack development, engaging in projects that challenge and expand my skill set.
+  
+- **IoT Projects:** Exploring the potential of IoT devices like ESP32 and Arduino UNO, and integrating them with web applications.
+  
+- **Cloud Computing:** Fascinated by the scalability and flexibility of cloud services and how they can revolutionize the way we develop and deploy applications.
+  
+- **Machine Learning / AI:** Eager to dive deeper into AI and machine learning, understanding its capabilities and applications in solving real-world problems.
+  
+- **Quantum Computing:** Intrigued by the principles of quantum computing and its potential to fundamentally change computing paradigms.
+  
+- **Wireless Networks:** Interested in the advancements and applications of wireless networking technologies in today's interconnected world.
+  
+- **DevOps:** Focused on learning more about DevOps practices, automation, continuous integration, and continuous deployment to streamline and improve the software development lifecycle.
 
+## My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=cattyman919&show_icons=true&theme=radical" alt="cattyman919" width="45%" align="right"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=cattyman919&theme=radical" width="48%" >
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cattyman919&theme=radical" width="100%" >
+
+ ## Top Languages
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cattyman919&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cattyman919&theme=radical)
+  
 ## 🎮 Hobbies
 
 - **Gaming:** A cherished part of my childhood, video games continue to be a source of fun and immersive storytelling for me.
