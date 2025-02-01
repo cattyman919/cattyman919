@@ -1,7 +1,7 @@
 # Hello, I'm Seno! 👋 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abdfikih.repoName)
 I'm an undergraduate Computer Engineering student at Universitas Indonesia with a passion for technology and its impact on society. My academic journey has equipped me with a broad understanding of programming, computer architecture, computer networks, and IoT, fueling my curiosity and drive to explore these areas further.
 
-⚡: Click Here -> [My Website](https://seno-dev.com)
+⚡: Click Here -> [My Website](https://senop.dev)
 
 ## 🛠 Tech Stack
 
