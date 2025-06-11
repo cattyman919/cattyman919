@@ -46,6 +46,6 @@ I'm an undergraduate Computer Engineering student at Universitas Indonesia with 
 ## 📫 Let's Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/senohebat/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seno-pamungkas-rahman-714341192/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senopamungkasraehman@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senop.rahman@gmail.com)
 
 Feel free to reach out, whether it's for a project, advice, or just to say hi. I'm always open to connecting with like-minded individuals and exploring new opportunities in the tech world!
