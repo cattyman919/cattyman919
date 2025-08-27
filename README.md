@@ -7,14 +7,13 @@ I'm an undergraduate Computer Engineering student at Universitas Indonesia with 
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,bootstrap,dart,flutter,git,github,gradle,godot,html,css,js,md,netlify,nextjs,nodejs,nestjs,postgres,postman,py,react,supabase,tailwind,ts,vercel,vscode,&perline=10" height="110"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,ts,py,dart,lua,androidstudio,flutter,react,tailwind,nextjs,nodejs,nestjs,postgres,mysql,mongodb,redis,maven,gradle,supabase,vercel,git,github,npm,neovim,arch&perline=15" height="200"/>
 </a>
 </p>
 
 ## My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=cattyman919&show_icons=true&theme=radical" alt="cattyman919" width="45%" align="right"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=cattyman919&theme=radical" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=cattyman919&show_icons=true&theme=radical" alt="cattyman919" width="100%" align="center"/>
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cattyman919&theme=radical" width="100%" >
 
  ## Top Languages
