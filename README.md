@@ -11,22 +11,6 @@ I'm an undergraduate Computer Engineering student at Universitas Indonesia with 
 </a>
 </p>
 
-## 🔍 Current Interests
-
-- **Web Development:** Specializing in full-stack development, engaging in projects that challenge and expand my skill set.
-  
-- **IoT Projects:** Exploring the potential of IoT devices like ESP32 and Arduino UNO, and integrating them with web applications.
-  
-- **Cloud Computing:** Fascinated by the scalability and flexibility of cloud services and how they can revolutionize the way we develop and deploy applications.
-  
-- **Machine Learning / AI:** Eager to dive deeper into AI and machine learning, understanding its capabilities and applications in solving real-world problems.
-  
-- **Quantum Computing:** Intrigued by the principles of quantum computing and its potential to fundamentally change computing paradigms.
-  
-- **Wireless Networks:** Interested in the advancements and applications of wireless networking technologies in today's interconnected world.
-  
-- **DevOps:** Focused on learning more about DevOps practices, automation, continuous integration, and continuous deployment to streamline and improve the software development lifecycle.
-
 ## My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=cattyman919&show_icons=true&theme=radical" alt="cattyman919" width="45%" align="right"/>
