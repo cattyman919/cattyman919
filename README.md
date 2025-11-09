@@ -1,17 +1,31 @@
-# Hello, I'm Seno! 👋 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abdfikih.repoName)
-I'm an undergraduate Computer Engineering student at Universitas Indonesia with a passion for technology and its impact on society. My academic journey has equipped me with a broad understanding of programming, computer architecture, computer networks, and IoT, fueling my curiosity and drive to explore these areas further.
+<div align="center">
+    <img src="https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif">
+</div>
 
-⚡: Click Here -> [My Website](https://senop.dev)
+<h1>Hello, I'm Seno! 👋</h1> 
+<p>I'm an Graduate Computer Engineering student from Universitas Indonesia with a passion for technology and its impact on society. My academic journey has equipped me with a broad understanding of programming, computer architecture, computer networks, and IoT, fueling my curiosity and drive to explore these areas further.</p>
 
-## 🛠 Tech Stack
 
+<div align="center">
+   <h3>⚡ Please check out my -> <a href="https://senop.dev">My Website</a> </h3>
+    <img src="https://media.tenor.com/vx4cF1v1f_UAAAAM/aqua-anime.gif" width="300px" align=center>
+
+</div>
+
+<h2>🛠 Tech Stack </h2>
+<div align="center">
+    
+</div>
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,ts,py,dart,lua,androidstudio,flutter,react,tailwind,nextjs,nodejs,nestjs,postgres,mysql,mongodb,redis,maven,gradle,supabase,vercel,git,github,npm,neovim,arch&perline=15" height="200"/>
+  <img 
+    src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,ts,py,dart,lua,androidstudio,flutter,react,tailwind,nextjs,nodejs,nestjs,postgres,mysql,mongodb,redis,maven,gradle,supabase,vercel,git,github,npm,neovim,arch&perline=15" 
+    height="200" 
+  />
 </a>
 </p>
 
-## My GitHub Stats
+<h2> My GitHub Stats </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cattyman919&show_icons=true&theme=radical" alt="cattyman919" width="100%" align="center"/>
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cattyman919&theme=radical" width="100%" >
