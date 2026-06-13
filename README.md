@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://skillicons.dev">
   <img 
-    src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,ts,py,dart,lua,androidstudio,flutter,react,tailwind,nextjs,nodejs,nestjs,postgres,mysql,mongodb,redis,maven,gradle,supabase,vercel,git,github,npm,neovim,arch&perline=15" 
+    src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,js,ts,py,dart,lua,androidstudio,flutter,react,tailwind,nextjs,nodejs,nestjs,postgres,mysql,mongodb,redis,maven,gradle,supabase,vercel,git,github,npm,neovim,arch&perline=15" 
     height="200" 
   />
 </a>
